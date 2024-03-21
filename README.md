@@ -17,7 +17,7 @@ This project aims to create a simple portfolio website to showcase personal info
 - Provide a declaration section.
 - Responsive design for various devices.
 
-![Portfolio Website](https://github.com/viswakiran16/Slashmark_Task2-Basic_portfolio/blob/259da27a2edd94deb8746618911adaa987f206a3/Screenshot%20(2).png)
+![Portfolio Website](https://github.com/viswakiran16/Slashmark_Task2-Basic_portfolio/blob/8ccc4ec2e1bb8648988f0b342b5e4b7b54319ff5/Screenshot%20(2).png)
 
 
 ## Technologies Used
