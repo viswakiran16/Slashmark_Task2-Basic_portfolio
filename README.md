@@ -41,6 +41,8 @@ This project aims to create a simple portfolio website to showcase personal info
 
 ## Contributors
 
+Deployed link or Website Preview - https://viswakiran16.github.io/Slashmark_Task2-Basic_portfolio/
+
 - [Your Name](https://github.com/your-username)
 
 ## License
